@@ -167,7 +167,7 @@ dialogs:
         restart: Перезапустить
         reset: Сбросить
         getStandalone: Приобрести полную версию
-        deleteGame: Я знаю, что я делаю
+        deleteGame: Удалить Игру
         viewUpdate: Посмотреть Обновление
         showUpgrades: Показать Улучшения
         showKeybindings: Показать Управление
@@ -321,7 +321,7 @@ ingame:
 
     # Notifications on the lower right
     notifications:
-        newUpgrade: Новое улучшение доступно!
+        newUpgrade: Доступно новое улучшение!
         gameSaved: Игра сохранена.
 
     # Mass select information, this is when you hold CTRL and then drag with your mouse
@@ -757,7 +757,7 @@ keybindings:
         switchDirectionLockSide: 'Planner: Switch side'
 
 about:
-    title: О игре
+    title: Об игре
     body: >-
         Эта игра с открытым исходным кодом, разработана <a href="https://github.com/tobspr"
         target="_blank">Тобиасом Спрингером</a> (это я).<br><br>
